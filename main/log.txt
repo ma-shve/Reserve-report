@@ -1,0 +1,60 @@
+"[2020-07-05 20:15:31] [INFO   ] [JTableAPI fillColumn] Поиск соответствия имен филиалов и подразделений в файле: src\main\resources\СтруктураПодразделений.xlsx
+""[2020-07-05 20:15:31] [INFO   ] [ExcelAPI read] Чтение таблицы с диска путь: src\main\resources\СтруктураПодразделений.xlsx
+""[2020-07-05 20:15:31] [INFO   ] [ExcelAPI read] Столбцов обнаружено: 2
+""[2020-07-05 20:15:31] [INFO   ] [ExcelAPI read] Запись в память
+""[2020-07-05 20:15:31] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы20200705.xlsx
+""[2020-07-05 20:15:31] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:15:40] [INFO   ] [ExcelAPI writeBook] Строк обработано: 22413; Столбцов обработано: 20
+""[2020-07-05 20:15:40] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:15:52] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+""[2020-07-05 20:15:55] [INFO   ] [Main main] Поиск соответствия имен филиалов и их сокращений в файле: src\main\resources\СокращенныеНазвания.xlsx
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI read] Чтение таблицы с диска путь: src\main\resources\СокращенныеНазвания.xlsx
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI read] Столбцов обнаружено: 2
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI read] Запись в память
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Количество уникалных записей: 7
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: интернет магазин
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 1562
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Питер
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 5597
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Челомея
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 3796
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Станколит
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 1888
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Новосибирск
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 3209
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Дилер
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 6318
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Поле: Остальные
+""[2020-07-05 20:15:55] [INFO   ] [JTableAPI splitByField] Столбцов в таблице: 20; Строк в таблице: 43
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы\Дилер20200705.xlsx
+""[2020-07-05 20:15:55] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:15:58] [INFO   ] [ExcelAPI writeBook] Строк обработано: 6318; Столбцов обработано: 20
+""[2020-07-05 20:15:58] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:16:00] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:16:01] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+""[2020-07-05 20:16:01] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы\Москва20200705.xlsx
+""[2020-07-05 20:16:01] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:16:02] [INFO   ] [ExcelAPI writeBook] Строк обработано: 5727; Столбцов обработано: 20
+""[2020-07-05 20:16:02] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:16:05] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:16:05] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+""[2020-07-05 20:16:05] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы\ИМ20200705.xlsx
+""[2020-07-05 20:16:05] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:16:06] [INFO   ] [ExcelAPI writeBook] Строк обработано: 1562; Столбцов обработано: 20
+""[2020-07-05 20:16:06] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:16:07] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:16:07] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+""[2020-07-05 20:16:07] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы\НСК20200705.xlsx
+""[2020-07-05 20:16:07] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:16:08] [INFO   ] [ExcelAPI writeBook] Строк обработано: 3209; Столбцов обработано: 20
+""[2020-07-05 20:16:08] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:16:09] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:16:09] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+""[2020-07-05 20:16:09] [INFO   ] [ExcelAPI create] Файл создан путь: src\main\Резервы\СПб20200705.xlsx
+""[2020-07-05 20:16:09] [INFO   ] [ExcelAPI writeBook] Идет запись в таблицу
+""[2020-07-05 20:16:11] [INFO   ] [ExcelAPI writeBook] Строк обработано: 5597; Столбцов обработано: 20
+""[2020-07-05 20:16:11] [INFO   ] [ExcelAPI setStyle] Форматирование таблицы
+""[2020-07-05 20:16:13] [INFO   ] [ExcelAPI writeToDisk] Запись на диск
+""[2020-07-05 20:16:13] [INFO   ] [ExcelAPI writeToDisk] Файл записан
+"
